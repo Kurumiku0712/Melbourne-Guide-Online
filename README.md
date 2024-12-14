@@ -16,6 +16,7 @@ A website designed for tourists planning to visit Melbourne, providing an intuit
 Relevant Skills: R Shiny, Tableau
 
 
+## SetUp
 Steps to launch our application:
 
 1. Unzip the file 
